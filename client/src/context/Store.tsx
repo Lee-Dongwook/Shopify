@@ -1,10 +1,4 @@
-import {
-  createContext,
-  useContext,
-  useState,
-  useEffect,
-  ChangeEvent,
-} from "react";
+import { createContext, useContext, useState, useEffect } from "react";
 import {
   createShopifyCheckout,
   updateShopifyCheckout,
